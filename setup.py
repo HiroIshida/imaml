@@ -5,7 +5,7 @@ setup_requires = []
 install_requires = ["numpy"]
 
 setup(
-    name="rpbench",
+    name="imaml",
     version="0.0.0",
     description="implicit maml",
     author="Hirokazu Ishida",
